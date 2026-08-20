@@ -18,19 +18,19 @@
 │  location    : Dhaka, Bangladesh 🇧🇩                         │
 │  university  : Daffodil International University (DIU)      │
 │  degree      : B.Sc. in Computer Science & Engineering      │
-│  status      : 2025 – Present                                │
+│  status      : 2025 – Present                               │
 ├─────────────────────────────────────────────────────────────┤
 │  currently_working_on:                                      │
-│    - 🎮 Game Development — building practical projects       │
-│    - 🌐 Web Development — HTML, CSS, JavaScript              │
-│    - 🔐 Cybersecurity — actively learning fundamentals       │
-│    - 🧪 Co-authoring an academic research paper (CS)         │
-│    - 🎯 Competitive programming on Beecrowd (C/C++/Python)   │
+│    - 🎮 Game Development — building practical projects      │
+│    - 🌐 Web Development — HTML, CSS, JavaScript             │
+│    - 🔐 Cybersecurity — actively learning fundamentals      │
+│    - 🧪 Co-authoring an academic research paper (CS)        │
+│    - 🎯 Competitive programming on Beecrowd (C/C++/Python)  │
 ├─────────────────────────────────────────────────────────────┤
 │  2026_focus  : "Game Development is my next frontier.       │
-│                 Expect gameplay prototypes, mechanics        │
-│                 experiments, and dev logs coming to this     │
-│                 profile very soon. 🕹️"                       │
+│                 Expect gameplay prototypes, mechanics       │
+│                 experiments, and dev logs coming to this    │
+│                 profile very soon. 🕹️"                      │
 ├─────────────────────────────────────────────────────────────┤
 │  fun_fact    : I test my code more than I test my patience  │
 └─────────────────────────────────────────────────────────────┘
